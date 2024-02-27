@@ -1,6 +1,5 @@
 # Fabio Fialho
 <!-- Introduction -->
-## Oi! Eu sou o Fabio 👋
 
 - 🚀 Desenvolvedor
 - 🌱 Apaixonado por Automação e programação
