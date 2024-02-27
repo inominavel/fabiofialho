@@ -57,7 +57,10 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30"alt="instagram logo"  /></a>
   
 </div>
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
+<div  align="left">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150">
+</div>
+
 
 <br clear="both">
 
