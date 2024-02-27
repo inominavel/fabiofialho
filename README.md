@@ -4,7 +4,7 @@
 <img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
 
 
-<h2 align="center">Oi 👋! Meu nome e Fabio </h2>
+<h2 align="center">Oi 👋! Meu nome é Fabio </h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align = "right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
 ###
 
