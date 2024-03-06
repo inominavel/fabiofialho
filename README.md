@@ -1,7 +1,7 @@
 # Fabio Fialho
 <!-- Introduction -->
 
-- 🚀 Estutante de Analise e desenvolvimento de sistemas
+- 🚀 Estudante de Analise e desenvolvimento de sistemas
 - 🌱 Apaixonado por Automação e programação
 - 💡 Sempre buscando aprender e crescer
 
